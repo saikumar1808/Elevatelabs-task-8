@@ -1,0 +1,12 @@
+Insights of the Drug sales
+💰 Total Revenue
+The dataset generated a total revenue of $26,078,804.
+
+📦 Total Units Sold
+Across all drugs and regions, a total of 1,056,409 units were sold.
+
+🏆 Top-Performing Drug
+Drug B was the highest-grossing product in terms of revenue.
+
+🧾 Highest Spending Customer Type
+Pharmacies contributed the most to overall revenue among all customer types.
